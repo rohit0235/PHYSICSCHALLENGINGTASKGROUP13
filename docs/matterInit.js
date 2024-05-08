@@ -531,7 +531,7 @@ Matter.Events.on(render, "afterRender", function () {
     render.context.fillStyle = pSBC(0.8, colorTheme.back);
     render.context.font = "40px Arial";
     render.context.fillStyle = "#000000";
-    title = "Untitled Triangle Game";
+    title = "Group 13 Triangle Game";
     render.context.fillText(
       title,
       render.canvas.width / 2 - render.context.measureText(title).width / 2,
