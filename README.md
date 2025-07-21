@@ -9,7 +9,7 @@ pretty cool to work on
 dont read the code it's to complecated for anyone in the world to understand
 
 
-demo here - https://rohit0235.github.io/textutils/
+demo here - https://rohit0235.github.io/PHYSICSCHALLENGINGTASKGROUP13/
 
 s,d,ArrowLeft,ArrowRight = Move Left/Right
 
