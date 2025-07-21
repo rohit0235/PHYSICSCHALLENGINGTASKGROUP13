@@ -1,4 +1,4 @@
-# Untitled triangle game
+# Triangle game
 
 ik what to call it
 
@@ -9,7 +9,7 @@ pretty cool to work on
 dont read the code it's to complecated for anyone in the world to understand
 
 
-demo here - https://aeolus-1.github.io/triangleGame   
+demo here - https://rohit0235.github.io/textutils/
 
 s,d,ArrowLeft,ArrowRight = Move Left/Right
 
@@ -29,12 +29,6 @@ click + drag = Draw block
 Arrow Keys = Move camera  
 Shift + Arrow Keys = move selected block  
 Digits (1, 2, 3...) = switch block type  
-
-
-Music by nokia
-
-controbutions by Serfonium  
-networking and server by nekoify
 
 
 Game map  
